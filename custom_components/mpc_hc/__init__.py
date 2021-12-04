@@ -1,0 +1,1 @@
+"""The mpc_hc component."""

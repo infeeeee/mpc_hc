@@ -1,0 +1,8 @@
+{
+  "domain": "mpc_hc",
+  "name": "Media Player Classic Home Cinema 2 (MPC-HC)",
+  "version": "0.0.1",
+  "documentation": "",
+  "codeowners": ["@infeeeee"],
+  "iot_class": "local_polling"
+}
